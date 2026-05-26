@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Saiharini! 👋
 
-<!--
-**sai-harini27/sai-harini27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science Graduate  
+📍 Karaikal, India  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+- 📊 Aspiring Data Engineer
+- 🔍 Fresher | Available for Opportunities
+- 🌱 Currently learning Data Engineering concepts
+
+## 📫 Connect with Me
+- (💼 [LinkedIn](https://www.linkedin.com/in/saiharini-mohan-5869a23b1))
+
+---
+⭐ Feel free to explore my repositories!
